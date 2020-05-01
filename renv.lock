@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "3.6.2",
+    "Version": "3.6.3",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -15,6 +15,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "f4605d46264b35f53072fc9ee7ace15f"
+    },
+    "DT": {
+      "Package": "DT",
+      "Version": "0.13",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "a16cb2832248c7cff5a6f505e2aea45b"
     },
     "MASS": {
       "Package": "MASS",
@@ -370,6 +377,18 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "49f7258fd86ebeaea1df24d9ded00478"
+    },
+    "patprofile": {
+      "Package": "patprofile",
+      "Version": "0.2.2",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "Novartis",
+      "RemoteRepo": "patprofile",
+      "RemoteRef": "master",
+      "RemoteSha": "214c9838362cbf4374302ac2f78faa323686bb18",
+      "Hash": "37c2f110e17aaaa7478ac077dd861a4b"
     },
     "pillar": {
       "Package": "pillar",
